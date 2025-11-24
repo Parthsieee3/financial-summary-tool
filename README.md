@@ -1,22 +1,37 @@
-# Financial Transactions Summary Tool
+# Agile Financial Analytics Project
 
-This repository contains the code for Assignment 2: Financial Transactions Summary Tool.
+## Team Members
+- Arpit
+- Parth Solanki
 
-**Dataset (included):** `financial_transactions (1).csv` (original path: `/mnt/data/financial_transactions (1).csv`)
+## Project Overview
+This project applies Agile principles to analyze a financial transaction dataset containing 100,000 records. The objective was to simulate Agile workflows while delivering valuable data insights.
 
-## How to run
+## Tools Used
+- Python (Pandas, Matplotlib)
+- GitHub
+- Scrum Board Simulation
 
-1. Create and activate a virtual environment
-```bash
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-```
-2. Run the tool:
-```bash
-python run.py --input "financial_transactions (1).csv" --outdir outputs
-```
+## Sprint Goal
+Analyze transaction patterns and extract meaningful financial insights.
 
-Outputs will be written to the `outputs/` folder.
+## Agile Workflow
+- User Stories creation
+- Sprint planning
+- Task tracking
+- Incremental delivery
+- Sprint reflection
 
-Replace `Member A` / `Member B` with actual names before submission.
+## Features
+- Credit vs Debit analysis
+- Customer behavior profiling
+- Trend visualization
+- Data-driven insights
+
+## Reflection
+The Agile framework allowed us to adapt quickly, manage work efficiently, and improve collaboration.
+
+## How to Run
+1. Clone repository
+2. Install dependencies
+3. Run `analysis.ipynb`
